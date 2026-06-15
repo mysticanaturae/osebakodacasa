@@ -250,8 +250,6 @@ const tzolkinNumberImages = [
 // TVOJI PODROBNI OPISI
 const tzolkinSignDescriptions = [
 
-const tzolkinSignDescriptions = [
-
 `Imix (Krokodil) 🌊
 
 Ti si hči prvobitnih voda.
